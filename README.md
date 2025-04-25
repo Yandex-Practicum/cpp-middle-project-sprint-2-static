@@ -1,4 +1,4 @@
-# cpp-middle-project-sprint-2-dynamic <!-- omit in toc -->
+# cpp-middle-project-sprint-2-static <!-- omit in toc -->
 
 - [Начало работы](#начало-работы)
 - [Сборка проекта и запуск тестов](#сборка-проекта-и-запуск-тестов)
