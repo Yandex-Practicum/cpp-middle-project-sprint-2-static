@@ -7,8 +7,8 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Launch CryptoGuard",
-            "program": "${workspaceFolder}/build/CryptoGuard",
+            "name": "Launch StaticScan",
+            "program": "${workspaceFolder}/build/StaticScan",
             "args": [
                 "-i",
                 "input.txt",
